@@ -1,0 +1,15 @@
+* {
+  background-color: black;
+  color: white;
+}
+
+body {
+  margin-top: 5rem;
+  text-align: center;
+}
+
+button {
+  background-color: springgreen;
+  color: black;
+  margin: 1rem;
+}
